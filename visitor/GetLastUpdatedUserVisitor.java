@@ -5,8 +5,6 @@ import composite.UserGroup;
 
 public class GetLastUpdatedUserVisitor{
 
-    private String userID;
-    private User user;
     private String lastUpdatedUser;
     private long latestUpdateTime;
 
